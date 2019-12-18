@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="activation-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/commons-codec-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/commons-collections4-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/commons-compress-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/jaxb-core-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/jaxb-impl-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/poi-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/poi-examples-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/poi-excelant-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/poi-ooxml-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/poi-ooxml-schemas-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/poi-scratchpad-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://C:/Program Files/IBM/ILOG/CPLEX_Studio128/cplex/lib/cplex.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
